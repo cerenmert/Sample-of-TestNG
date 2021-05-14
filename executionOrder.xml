@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TestNG Sample" verbose="1">
+    <test name="Sample" preserve-order="true">
+        <classes>
+            <class name="executionOrder.AnnotationsTest"/>
+            <class name="executionOrder.SampleTestOrder"/>
+        </classes>
+    </test>
+</suite>
