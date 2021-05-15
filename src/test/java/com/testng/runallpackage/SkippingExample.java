@@ -1,4 +1,4 @@
-package com.testng.runAllPackage;
+package com.testng.runallpackage;
 
 import org.testng.SkipException;
 import org.testng.annotations.Test;
