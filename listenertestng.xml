@@ -10,7 +10,6 @@
     <test name="Listener Test Case">
         <classes>
             <class name="com.testng.listeners.SampleTestClass"></class>
-
         </classes>
     </test>
 </suite>

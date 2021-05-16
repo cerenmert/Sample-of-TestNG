@@ -26,7 +26,7 @@ public class DataProviderSource {
         } else if ("scenario2".equals(testCase)) {
             return new Object[][] { { "Scenario2 data" } };
         } else {
-            return new Object[][] { { "Common scenario data" } };
+            return new Object[][] { { "Ceren" } };
         }
     }
 }

@@ -4,7 +4,7 @@
 <suite name="Multiple Test Suites">
     <suite-files>
         <suite-file path="executionOrder.xml"></suite-file>
-        <suite-file path="parameterization.xml"></suite-file>
+        <suite-file path="testParameterization.xml"></suite-file>
         <suite-file path="dataprovidertestng.xml"></suite-file>
     </suite-files>
 </suite>
